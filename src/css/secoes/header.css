@@ -127,7 +127,7 @@
         z-index: 1;
     }
 
-   .header nav ul {
+    .header nav ul {
         display: none;        
         background-color: var(--cor-fundo-escuro);         
         padding: 20px;       
