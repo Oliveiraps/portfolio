@@ -27,7 +27,7 @@
 
 .header nav li a {
     text-transform: capitalize;
-    color: var(--cor-branca);
+    color: var(--cor-branco);
     font-size: 2rem;
     font-weight: 500;
     padding: 10px 20px;
